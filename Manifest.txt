@@ -1,0 +1,6 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/super_caller.rb
+lib/super_caller/exception.rb
