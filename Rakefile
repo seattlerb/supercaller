@@ -5,7 +5,6 @@ require 'hoe'
 require './lib/super_caller.rb'
 
 Hoe.new('SuperCaller', SuperCaller::VERSION) do |p|
-  p.rubyforge_name = 'seattlerb'
   p.author = 'Eric Hodel'
   p.email = 'drbrain@segment7.net'
   p.summary = p.paragraphs_of('README.txt', 1).first
